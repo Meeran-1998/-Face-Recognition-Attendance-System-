@@ -8,12 +8,14 @@ Python: The code you provided is written in Python. Make sure you have Python in
 The code relies on various Python libraries and modules. You can install these dependencies using Python's package manager, pip. Open a terminal or command prompt and run the following commands to install the required libraries (assuming you are in the project directory):
 
 
-pip install opencv-python
-pip install opencv-python-headless
-pip install opencv-contrib-python
-pip install numpy
-pip install dlib
-pip install face_recognition
+# pip install opencv-python
+# pip install opencv-python-headless
+# pip install opencv-contrib-python
+# pip install numpy
+# pip install dlib
+# pip install face_recognition
+# pip install mysql
+# pip install MySQL-python
 
 # Dlib: 
 
@@ -62,4 +64,4 @@ If you don't already have Git installed, download and install it from Git for Wi
 
 Open a command prompt and use pip to install dlib:
 
-pip install dlib
+# pip install dlib
